@@ -13,7 +13,7 @@ My background runs from ~9 years of hands-on game design in Minecraft server wor
 
 ## Toolbox
 
-`C#` · `Unity` · `Game & Systems Design` · `Gameplay Programming`
+`C#` · `Unity` · `Game & Systems Design` · `Gameplay Programming` · `Git` · `Figma` · `Tiled` · `IDEs: Rider & Visual Studio`
 
 ## Find Me
 
