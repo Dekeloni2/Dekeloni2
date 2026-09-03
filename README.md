@@ -9,7 +9,11 @@ My background runs from ~9 years of hands-on game design in Minecraft server wor
 ## Selected Work
 
 - **TiltanTale** — An Undertale-inspired game set inside Tiltan: fight your teachers in your first year of Game Dev, or spare them for unique endings. Made in MonoGame framework. TiltanTale is available to play [in my portfolio!](https://dekeloni2.github.io/portfolio-website/games/play-tiltantale.html) (Ported using KNI)
+
+
 - **Balatro in C#** — A from-scratch recreation of the roguelike deckbuilder with no engine — the whole game runs inside a console.
+
+
 - **Brave the Wilderness** — A merge-driven survival game with an economy as its running meta layer, designed to keep the player exploring and fighting.
 
 ## Toolbox
