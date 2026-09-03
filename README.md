@@ -4,12 +4,13 @@ I'm a game designer and C# developer, studying Game Design & Development at Tilt
 
 My background runs from ~9 years of hands-on game design in Minecraft server work (economy, systems, and gameplay design) to Unity and C# development today. I like building systems-driven games and I'm addicted to game feel — screen shake, particles, and tween juice that make things click.
 
+> 🛠️ **Currently building:** **RunicRPG** — a systems-driven 2.5D action RPG. *(In development)*
+
 ## Selected Work
 
-- **Balatro in C#** — a from-scratch recreation of the roguelike deckbuilder with no engine. Game runs inside a console.
-- **Brave the Wilderness** — A merge driven survival game with economy as its running meta layer. Designed to keep the player exploring and fighting.
-- **TiltanTale (Recommended!)** — An Undertale inspired game that takes place inside Tiltan. Fight your teachers in your first year of Game Dev, or spare them to have unique endings.
-
+- **TiltanTale** — An Undertale-inspired game set inside Tiltan: fight your teachers in your first year of Game Dev, or spare them for unique endings. Made in MonoGame framework. TiltanTale is available to play [in my portfolio!](https://dekeloni2.github.io/portfolio-website/games/play-tiltantale.html) (Ported using KNI)
+- **Balatro in C#** — A from-scratch recreation of the roguelike deckbuilder with no engine — the whole game runs inside a console.
+- **Brave the Wilderness** — A merge-driven survival game with an economy as its running meta layer, designed to keep the player exploring and fighting.
 
 ## Toolbox
 
@@ -18,3 +19,4 @@ My background runs from ~9 years of hands-on game design in Minecraft server wor
 ## Find Me
 
 - [Portfolio](https://dekeloni2.github.io/portfolio-website)
+- [LinkedIn](https://www.linkedin.com/in/dekel-riess/)
