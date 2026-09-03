@@ -17,4 +17,4 @@ My background runs from ~9 years of hands-on game design in Minecraft server wor
 
 ## Find Me
 
-- Portfolio → [dekeloni2.github.io](https://dekeloni2.github.io)
+- [Portfolio](https://dekeloni2.github.io/portfolio-website)
