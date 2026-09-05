@@ -5,6 +5,7 @@ I'm a game designer and C# developer, studying Game Design & Development at Tilt
 My background runs from +10 years of hands-on game design in Minecraft server work (economy, systems, and gameplay design) to Unity and C# development today. I like building systems-driven games and I'm addicted to game feel — screen shake, particles, and tween juice that make things click.
 
 > 🛠️ **Currently building:** **RunicRPG** — a systems-driven 2.5D action RPG. *(In development)*
+
 > 🛠️ **Currently building:** **Rest in Profit** — An idle mobile wave management game with a necromancy theme *(In development)*
 
 ## Selected Work
