@@ -21,7 +21,9 @@ My background runs from +10 years of hands-on game design in Minecraft server wo
 > 🛠️ **Currently building:** **Rest in Profit** — An idle mobile wave management game with a necromancy theme *(In development)*
 
 > **Games I would like to make**:
+
 > Risk of Rain type roguelike made in Godot
+
 > A dungeon exploring C++ game using Raylib
 
 ## Toolbox
