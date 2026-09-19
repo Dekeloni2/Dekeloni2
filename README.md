@@ -2,7 +2,9 @@
 
 I'm a game designer and C# developer, studying Game Design & Development at Tiltan College of Visual Design and Communication. I turn **ideas into games** — from systems and gameplay design to shipping playable builds.
 
-My background runs from +10 years of hands-on game design in Minecraft server work (economy, systems, and gameplay design) to Unity and C# development today. I like building systems-driven games and I'm addicted to game feel — screen shake, particles, and tween juice that make things click.
+My background runs from +10 years of hands-on game design in Minecraft server work (economy, systems, and gameplay design) to Unity and C# development today. I like building systems-driven games and I am currently working on becoming a technical artist.
+
+Expanding my knowledge on C# and C++.
 
 ## Selected Work
 
