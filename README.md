@@ -22,6 +22,8 @@ Expanding my knowledge on C# and C++.
 
 > 🛠️ **Currently building:** **Rest in Profit** — An idle mobile wave management game with a necromancy theme *(In development)*
 
+> 🛠️ **Currently building**: ** **Dogfight Evolution** - My case study for hybrid casual mobile games, Dogfight Evolution is a game where you control a plane vertically to shoot down enemy planes. Upgrade your plane and unlock weapons, only to prestige and evolve along with your enemies.
+
 > **Games I would like to make**:
 
 > Risk of Rain type roguelike made in Godot
