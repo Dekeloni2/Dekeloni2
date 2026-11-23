@@ -19,6 +19,8 @@ Expanding my knowledge on C# and C++.
 
 - **Rest in Profit** — An idle mobile wave management game with a necromancy theme
 
+- **Vampiro** - An incremental survivor game, where you play a cute vampire that rules a castle. Use your servants by consuming them to obtain powerful skills during your runs.
+
 
 - **Dogfight Evolution** - My case study for hybrid casual mobile games, Dogfight Evolution is a game where you control a plane vertically to shoot down enemy planes. Upgrade your plane and unlock weapons, only to prestige and evolve along with your enemies.
 
