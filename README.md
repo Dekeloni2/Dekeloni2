@@ -16,19 +16,25 @@ Expanding my knowledge on C# and C++.
 
 - **Brave the Wilderness** — A merge-driven survival game with an economy as its running meta layer, designed to keep the player exploring and fighting.
 
+
+- **Rest in Profit** — An idle mobile wave management game with a necromancy theme
+
+
+- **Dogfight Evolution** - My case study for hybrid casual mobile games, Dogfight Evolution is a game where you control a plane vertically to shoot down enemy planes. Upgrade your plane and unlock weapons, only to prestige and evolve along with your enemies.
+
+
+
 ## Whats next?
 
-> 🛠️ **Currently building:** **RunicRPG** — a systems-driven 2.5D action RPG. *(In development)*
 
-> 🛠️ **Currently building:** **Rest in Profit** — An idle mobile wave management game with a necromancy theme *(In development)*
+> 🛠️ **Currently building:** **Tower of Games** — A grid turn based game where your deck is full of game pieces. Ascend the Tower to confront the False King. *(In development)*
 
-> 🛠️ **Currently building**: ** **Dogfight Evolution** - My case study for hybrid casual mobile games, Dogfight Evolution is a game where you control a plane vertically to shoot down enemy planes. Upgrade your plane and unlock weapons, only to prestige and evolve along with your enemies.
-
+> 🛠️ **Currently building**: ** 
 > **Games I would like to make**:
 
-> Risk of Rain type roguelike made in Godot
-
 > A dungeon exploring C++ game using Raylib
+
+> Farming game RPG 
 
 ## Toolbox
 
